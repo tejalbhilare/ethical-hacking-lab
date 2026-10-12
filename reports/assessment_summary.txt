@@ -1,0 +1,15 @@
+ETHICAL HACKING LAB - ASSESSMENT SUMMARY
+==========================================
+
+Target: 127.0.0.1 (local machine)
+Scope: Local TCP port and service scan
+
+Open TCP ports detected: 1
+
+Detected services:
+- Port: 22/tcp, Service: ssh
+
+Important:
+- An open port is not automatically a vulnerability.
+- Review service configuration and software updates.
+- This summary is not a complete security audit.
